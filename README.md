@@ -17,10 +17,11 @@
 
 ### ⚙️ Languages & Tools
 
-| Java | Python | Selenium | Jira | HTML | SQL | MySQL | JMeter | JDBC |
+| Java | Python | Selenium | Jira | HTML | MySQL | SQL | JMeter | JDBC |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> | <img src="https://skillicons.dev/icons?i=selenium" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Jira_icon.svg" width="40"/> | <img src="https://skillicons.dev/icons?i=html" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40"/> | <img src="https://skillicons.dev/icons?i=mysql" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/JMeter_logo.png" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Jdbc-logo.png" width="40"/> |
-| Java | Python | Selenium | Jira | HTML | SQL | MySQL | JMeter | JDBC |
+| <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> | <img src="https://skillicons.dev/icons?i=selenium" width="40"/> | <img src="https://skillicons.dev/icons?i=jira" width="40"/> | <img src="https://skillicons.dev/icons?i=html" width="40"/> | <img src="https://skillicons.dev/icons?i=mysql" width="40"/> | SQL | JMeter | JDBC |
+| Java | Python | Selenium | Jira | HTML | MySQL | SQL | JMeter | JDBC |
+
 
 
 ---
