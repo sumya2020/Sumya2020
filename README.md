@@ -15,11 +15,12 @@
 
 ---
 
-## ⚙️ Languages & Tools  
+### ⚙️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,selenium,postman,git,github,vscode,java,jira,mysql,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,selenium,postman,git,github,vscode,java,html,mysql,jira,JMeter" />
 </p>
+
 
 ---
 
