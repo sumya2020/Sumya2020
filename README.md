@@ -1,26 +1,25 @@
 # 👋 Hey there, I'm Sumya Rashid  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C0A3&width=480&lines=Aspiring+QA+Engineer;Passionate+about+Testing+and+Automation;Building+my+QA+Portfolio+one+project+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C0A3&width=480&lines=Aspiring+QA+Engineer;Passionate+about+Testing;Building+my+QA+Portfolio+for+Manual+Testing" alt="Typing SVG" />
 </p>
 
 ---
 
-## 💻 About Me  
-- 🌸 I’m an aspiring **Software Quality Assurance Engineer** from Bangladesh.  
-- 🧪 Passionate about testing web applications and ensuring smooth user experiences.  
-- 💼 Currently building projects on **OpenCart** and learning automation testing tools.  
-- 🌱 Always exploring new QA practices and improving my technical & analytical skills.  
-- 📫 **Email me:** sumyarashid2020@gmail.com  
+## 💻 About Me
+- 🌸 Aspiring **Software QA Engineer** from Bangladesh.  
+- 🧪 Currently working on a **real-world OpenCart project**, gaining hands-on experience in testing and quality assurance.  
+- 🚀 Exploring **automation testing** using tools like Selenium, Python, and Postman to make testing smarter and faster.  
+- 🌱 Continuously learning new frameworks and technologies to grow as a versatile QA professional.  
+- 📫 **Email me:** sumyarashid22@gmail.com  
 
 ---
 
 ### ⚙️ Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,selenium,postman,git,github,vscode,java,html,mysql,jira,JMeter" />
-</p>
-
+| Java | Python | Selenium | Jira | HTML | SQL | MySQL | JMeter | JDBC |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> | <img src="https://skillicons.dev/icons?i=selenium" width="40"/> | <img src="https://skillicons.dev/icons?i=jira" width="40"/> | <img src="https://skillicons.dev/icons?i=html" width="40"/> | <img src="https://skillicons.dev/icons?i=sql" width="40"/> | <img src="https://skillicons.dev/icons?i=mysql" width="40"/> | <img src="https://skillicons.dev/icons?i=jmeter" width="40"/> | <img src="https://skillicons.dev/icons?i=jdbc" width="40"/> |
 
 ---
 
