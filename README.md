@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Sumya Rashid  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C0A3&width=480&lines=Aspiring+QA+Engineer;Passionate+about+Testing;Building+my+QA+Portfolio+for+Manual+Testing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C0A3&width=480&lines=Aspiring+QA+Engineer;Passionate+about+Testing;Building+my+QA+Portfolio" alt="Typing SVG" />
 </p>
 
 ---
