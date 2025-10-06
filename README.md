@@ -14,13 +14,13 @@
 - 📫 **Email me:** sumyarashid22@gmail.com  
 
 ---
-
 ### ⚙️ Languages & Tools
 
 | Java | Python | Selenium | Jira | HTML | MySQL | SQL | JMeter | JDBC |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> | <img src="https://skillicons.dev/icons?i=selenium" width="40"/> | <img src="https://skillicons.dev/icons?i=jira" width="40"/> | <img src="https://skillicons.dev/icons?i=html" width="40"/> | <img src="https://skillicons.dev/icons?i=mysql" width="40"/> | SQL | JMeter | JDBC |
+| <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> | <img src="https://skillicons.dev/icons?i=selenium" width="40"/> |  | <img src="https://skillicons.dev/icons?i=html" width="40"/> | <img src="https://skillicons.dev/icons?i=mysql" width="40"/> |  |  |  |
 | Java | Python | Selenium | Jira | HTML | MySQL | SQL | JMeter | JDBC |
+
 
 
 
